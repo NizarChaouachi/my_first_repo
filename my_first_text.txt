@@ -1,6 +1,6 @@
 This is my first text file i am going to add
 it on github 
-welcome
+Bienvenue
 
 Now we are using vscode and it is better than the terminal
 vscode is the best editor
