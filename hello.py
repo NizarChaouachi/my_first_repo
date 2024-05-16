@@ -1,2 +1,2 @@
-print('hello')
-print('hello amaz people')
+for i in range(5):
+    pass
