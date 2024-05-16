@@ -1,2 +1,2 @@
 print('hello')
-print('hello amaz')
+print('hello amaz people')
